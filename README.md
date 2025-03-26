@@ -15,7 +15,7 @@
 1. **Клонировать репозиторий**  
    ```bash
    git clone git clone https://github.com/Qipeax/semestr1.git
-   cd my-shop3
+   cd my-shop
    ```
    *Или (если другой репозиторий):*  
    ```bash

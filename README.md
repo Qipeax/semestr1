@@ -1,18 +1,43 @@
-React + Vite
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-@vitejs/plugin-react uses Babel for Fast Refresh
-@vitejs/plugin-react-swc uses SWC for Fast Refresh
-Expanding the ESLint configuration
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the TS template to integrate TypeScript and typescript-eslint in your project.
+```markdown
+# Инструкция по запуску проекта
 
-Инструкция
+## Технологии
+- React + Vite
+- Redux Toolkit
+- Material UI (MUI)
+- Framer Motion
+- JSON Server (для mock API)
 
-Скачиваем файлы. git clone https://github.com/Germanchik01/my-shop3.git
-открываем их.
-npm install
-npm install @reduxjs/toolkit react-redux @mui/material @emotion/react @emotion/styled axios react-router-dom (Одна строка)
-npm install framer-motion
-и пишем команды json-server --watch public/data.json --port 3001 и npm run dev
+## Установка и запуск
+
+1. **Клонировать репозиторий**  
+   ```bash
+   git clone git clone https://github.com/Qipeax/semestr1.git
+   cd my-shop3
+   ```
+   *Или (если другой репозиторий):*  
+   ```bash
+   git clone https://github.com/Qipeax/semestr1.git
+   cd semestr1
+   ```
+
+2. **Установить зависимости**  
+   ```bash
+   npm install
+   npm install @reduxjs/toolkit react-redux @mui/material @emotion/react @emotion/styled axios react-router-dom
+   npm install framer-motion
+   ```
+
+3. **Запустить JSON Server (mock API)**  
+   *В отдельном терминале:*
+   ```bash
+   json-server --watch public/data.json --port 3001
+   ```
+
+4. **Запустить dev-сервер**  
+   ```bash
+   npm run dev
+   ```
+

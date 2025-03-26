@@ -12,7 +12,8 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 
-
-1) Скачиваем файлы.
+Инструкция
+1) Скачиваем файлы. git clone https://github.com/Germanchik01/my-shop3.git
 2) открываем их.
-3) и пишем команды json-server --watch public/data.json --port 3001 и npm run dev
+3) npm instal
+4) и пишем команды json-server --watch public/data.json --port 3001 и npm run dev

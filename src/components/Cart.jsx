@@ -8,7 +8,7 @@ const Cart = () => {
  const dispatch = useDispatch();
  const { items, total } = useSelector((state) => state.cart);
  return (
- <Card sx={{ maxWidth: '100%', margin: 2, boxShadow: 3 }}>
+ <Card sx={{maxWidth: '100%', margin: 2, boxShadow: 3 }}>
  <CardContent>
  <Typography variant="h6">Корзина</Typography>
  <List>

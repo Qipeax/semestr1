@@ -1,8 +1,15 @@
-import React from 'react';
-import { Card, CardContent, CardMedia, Typography, Button, Box } from '@mui/material';
-import { motion } from 'framer-motion';
-import { useDispatch } from 'react-redux';
-import { addToCart } from '../features/cartSlice';
+import React from "react";
+import {
+  Card,
+  CardContent,
+  CardMedia,
+  Typography,
+  Button,
+  Box,
+} from "@mui/material";
+import { motion } from "framer-motion";
+import { useDispatch } from "react-redux";
+import { addToCart } from "../features/cartSlice";
 
 const ProductCard = ({ product }) => {
   const dispatch = useDispatch();
@@ -13,28 +20,37 @@ const ProductCard = ({ product }) => {
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5 }}
     >
-      <Card sx={{ maxWidth: 345, margin: 2, boxShadow: 3, position: 'relative' }}>
-        {/* Рейтинг товара */}
+      <Card
+        sx={{
+          width: 300,
+          height: 480,
+          margin: 2,
+          boxShadow: 3,
+          display: "flex",
+          flexDirection: "column",
+          position: "relative",
+        }}
+      >
         <Box
           sx={{
-            position: 'absolute',
+            position: "absolute",
             top: 8,
             right: 8,
-            backgroundColor: 'rgba(255, 255, 255, 0.8)', // Белый фон с прозрачностью
-            padding: '4px 8px', // Увеличиваем padding по горизонтали
-            borderRadius: '4px',
-            zIndex: 1, // Убедитесь, что рейтинг отображается поверх изображения
-            fontSize: '0.875rem', // Задаем размер шрифта
-            fontWeight: 'bold',   // Делаем текст жирным
-            color: '#333',         // Задаем цвет текста
+            backgroundColor: "rgba(255, 255, 255, 0.8)",
+            padding: "4px 8px",
+            borderRadius: "4px",
+            zIndex: 1,
+            fontSize: "0.875rem",
+            fontWeight: "bold",
+            color: "#333",
           }}
         >
-          {product.rating ? product.rating.toFixed(1) : 'Нет рейтинга'}
+          {product.rating ? product.rating.toFixed(1) : "Нет рейтинга"}
         </Box>
 
         <CardMedia
           component="img"
-          height="140"
+          height="250"
           image={product.image}
           alt={product.title}
         />

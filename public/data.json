@@ -2,20 +2,20 @@
     "products": [
     {
     "id": 1,
-    "title": "Ноутбук ASUS VivoBook 15",
-    "price": 45000,
-    "description": "15.6 дюймов, Intel Core i5, 8 ГБ ОЗУ, 512 ГБ SSD",
-    "image": "https://avatars.mds.yandex.net/get-mpic/11621477/2a000001927902286b5ac54183fb11104ecf/optimize",
-    "category": "electronics",
-    "rating": 4.7
+    "title": "Ноутбук MSI GF66 Katana 12UE-868XRU",
+    "price": 90000,
+    "description": "1920x1080, IPS, Intel Core i5-12500H, GeForce RTX 3060 для ноутбуков 6 ГБ",
+    "image": "https://c.dns-shop.ru/thumb/st4/fit/0/0/49ef548a9fa18ab45ff15013d7540512/65cc1e098a316419519b12144978f6548ae722d4554fc69cf1d76e112a8b4d92.jpg.webp",
+    "category": "Электроника",
+    "rating": 4.9
     },
     {
     "id": 2,
-    "title": "Смартфон Samsung Galaxy S21",
-    "price": 60000,
+    "title": "Смартфон Samsung Galaxy А54",
+    "price": 40000,
     "description": "6.2 дюймов, 128 ГБ, Phantom Gray",
-    "image": "https://avatars.mds.yandex.net/i?id=acfa10cfe26236f9a878e4e2321251982bbb9d1d-4885899-images-thumbs&n=13",
-    "category": "electronics",
+    "image": "https://avatars.mds.yandex.net/i?id=6ba11017dc16e169cdb2e677d01430db_l-9855103-images-thumbs&n=13",
+    "category": "Электроника",
     "rating": 4.8
     },
     {
@@ -24,7 +24,7 @@
     "price": 25000,
     "description": "Беспроводные, шумоподавление, черный",
     "image": "https://avatars.mds.yandex.net/i?id=1275d5c25f461fece234babe98dad92f84f35e07-10961631-images-thumbs&n=13",
-    "category": "electronics",
+    "category": "Электроника",
     "rating": 4.9
     },
     {
@@ -33,7 +33,7 @@
     "price": 3000,
     "description": "Цветной AMOLED-экран, черный",
     "image": "https://avatars.mds.yandex.net/i?id=8ae15a21a5b2c8dd923a7e39738526eaa4596d5f0eb79327-3573407-images-thumbs&n=13",
-    "category": "electronics",
+    "category": "Электроника",
     "rating": 4.6
     },
     {
@@ -42,7 +42,7 @@
     "price": 55000,
     "description": "10.9 дюймов, 64 ГБ, Space Gray",
     "image": "https://avatars.mds.yandex.net/i?id=881615fe751297c3429b606be90667a0045eaa69-5910545-images-thumbs&n=13",
-    "category": "electronics",
+    "category": "Электроника",
     "rating": 4.8
     },
     {
@@ -51,7 +51,7 @@
     "price": 150000,
     "description": "Зеркальный, 20 Мп, 4K видео",
     "image": "https://avatars.mds.yandex.net/i?id=a18c58d1cd5b22f05c9f02d97a2ed661e2bf21fe-4076134-images-thumbs&n=13",
-    "category": "electronics",
+    "category": "Электроника",
     "rating": 4.9
     },
     {
@@ -60,7 +60,7 @@
     "price": 40000,
     "description": "27 дюймов, 4K, IPS",
     "image": "https://avatars.mds.yandex.net/i?id=a34f919ca19ed6b096d17d19bb9a15b09186e0c4-3452823-images-thumbs&n=13",
-    "category": "electronics",
+    "category": "Электроника",
     "rating": 4.7
     },
     {
@@ -69,7 +69,7 @@
     "price": 5000,
     "description": "11 программируемых кнопок, RGB",
     "image": "https://avatars.mds.yandex.net/i?id=c68f5f28cac592babf05d74fec795dd824276234-8425275-images-thumbs&n=13",
-    "category": "electronics",
+    "category": "Электроника",
     "rating": 4.8
     },
     {
@@ -78,7 +78,7 @@
     "price": 7000,
     "description": "Механическая, Bluetooth, 65%",
     "image": "https://avatars.mds.yandex.net/i?id=988ccb78ff18ae108c5f995b09519a40d2e4e52b-4855099-images-thumbs&n=13",
-    "category": "electronics",
+    "category": "Электроника",
     "rating": 4.7
     },
     {
@@ -87,7 +87,7 @@
     "price": 8000,
     "description": "Портативная, водонепроницаемая, синий",
     "image": "https://avatars.mds.yandex.net/i?id=020e6222f1df52aac571f6f5886a1c8edb8d8acf-5344236-images-thumbs&n=13",
-    "category": "electronics",
+    "category": "Электроника",
     "rating": 4.6
     },
     {
@@ -96,7 +96,7 @@
     "price": 1500,
     "description": "Хлопок, черный",
     "image": "https://avatars.mds.yandex.net/i?id=20554473a63baeb2b65ce813c955f4341eca1d13-9863853-images-thumbs&n=13",
-    "category": "clothing",
+    "category": "Одежда",
     "rating": 4.5
     },
     {
@@ -105,7 +105,7 @@
     "price": 3000,
     "description": "Скинни, синий",
     "image": "https://avatars.mds.yandex.net/i?id=0c46cce712b5f23a13e1570f28363681e879a7ff-12588376-images-thumbs&n=13",
-    "category": "clothing",
+    "category": "Одежда",
     "rating": 4.6
     },
     {
@@ -114,7 +114,7 @@
     "price": 10000,
     "description": "Мифрил",
     "image": "https://thetolkien.forum/wiki-asset/?pid=1907&x=450",
-    "category": "clothing",
+    "category": "Одежда",
     "rating": 4.7
     },
     {
@@ -123,7 +123,7 @@
     "price": 8000,
     "description": "Беговые, белый",
     "image": "https://avatars.mds.yandex.net/i?id=e5ea13c72b9fa8d350555c49a2d6ebf305ab6077-9173887-images-thumbs&n=13",
-    "category": "clothing",
+    "category": "Одежда",
     "rating": 4.8
     },
     {
@@ -132,7 +132,7 @@
     "price": 5000,
     "description": "Повседневный, синий",
     "image": "https://avatars.mds.yandex.net/i?id=8f5dff0c049efb4f49c6cfd9f0b45dfd1a6249b4-5586433-images-thumbs&n=13",
-    "category": "clothing",
+    "category": "Одежда",
     "rating": 4.6
     },
     {
@@ -141,7 +141,7 @@
     "price": 12000,
     "description": "золото, металл осквернённый Морготом",
     "image": "https://habrastorage.org/webt/zr/uh/je/zruhjeh-x6bvr9wqhxj4f5u5tu0.png",
-    "category": "clothing",
+    "category": "Одежда",
     "rating": 4.7
     },
     {
@@ -150,7 +150,7 @@
     "price": 9000,
     "description": "Солнцезащитные, черный",
     "image": "https://avatars.mds.yandex.net/i?id=b8573fb81a4c61cc669f0e1e518bdf3f9a0e5d8a-8534972-images-thumbs&n=13",
-    "category": "clothing",
+    "category": "Одежда",
     "rating": 4.8
     },
     {
@@ -159,7 +159,7 @@
     "price": 1000,
     "description": "Шерсть, серый",
     "image": "https://avatars.mds.yandex.net/i?id=c619a9d2c1b9d34a9ef73e92bd9af58302c855b5-5163110-images-thumbs&n=13",
-    "category": "clothing",
+    "category": "Одежда",
     "rating": 4.5
     },
     {
@@ -168,7 +168,7 @@
     "price": 7000,
     "description": "Шелк, черный",
     "image": "https://avatars.mds.yandex.net/i?id=7b9d32b2cbb78fb9dc86fa4947b096f62887fde2-12505840-images-thumbs&n=13",
-    "category": "clothing",
+    "category": "Одежда",
     "rating": 4.7
     },
     {
@@ -177,7 +177,7 @@
     "price": 6000,
     "description": "Кожа, красный",
     "image": "https://avatars.mds.yandex.net/i?id=a2328ceae5c1f358ee3470d3710b90ee022ea1d8-12476725-images-thumbs&n=13",
-    "category": "clothing",
+    "category": "Одежда",
     "rating": 4.6
     },
     {
@@ -186,7 +186,7 @@
     "price": 500,
     "description": "Джордж Оруэлл",
     "image": "https://avatars.mds.yandex.net/i?id=0f700e888e0203dc11bc2fd4911edeb93454be4e-3577053-images-thumbs&n=13",
-    "category": "books",
+    "category": "Книги",
     "rating": 4.9
     },
     {
@@ -195,7 +195,7 @@
     "price": 600,
     "description": "Михаил Булгаков",
     "image": "https://avatars.mds.yandex.net/i?id=280f780e3d71879fc63c1b1d2640d41807262520-8411463-images-thumbs&n=13",
-    "category": "books",
+    "category": "Книги",
     "rating": 4.8
     },
     {
@@ -204,7 +204,7 @@
     "price": 700,
     "description": "Джоан Роулинг",
     "image": "https://avatars.mds.yandex.net/i?id=1c4bb787148e3b8e8cb428517c85ba72e5b1ca45-7761117-images-thumbs&n=13",
-    "category": "books",
+    "category": "Книги",
     "rating": 4.9
     },
     {
@@ -213,7 +213,7 @@
     "price": 800,
     "description": "Лев Толстой",
     "image": "https://avatars.mds.yandex.net/i?id=cddd5e590e5e11a4a5fd153c59e3da44c162a9a7-10685755-images-thumbs&n=13",
-    "category": "books",
+    "category": "Книги",
     "rating": 4.7
     },
     {
@@ -222,52 +222,52 @@
     "price": 550,
     "description": "Федор Достоевский",
     "image": "https://avatars.mds.yandex.net/i?id=d72edb99bea5134861b0b1104a36fdcb540baf59-9106835-images-thumbs&n=13",
-    "category": "books",
+    "category": "Книги",
     "rating": 4.8
     },
     {
     "id": 26,
-    "title": "Книга 'Silmarillion",
+    "title": "Семь смертей Эвелины Хардкаса",
     "price": 400,
-    "description": "Джон Рональд Руэл Толкин",
-    "image": "https://productimages.hepsiburada.net/s/27/550/10192986374194.jpg",
-    "category": "books",
+    "description": "Тертон С.",
+    "image": "https://cdn1.ozone.ru/s3/multimedia-m/c600/6747192238.jpg",
+    "category": "Книги",
     "rating": 5
     },
     {
     "id": 27,
-    "title": "Книга 'The Hobbit, or There and Back Again'",
-    "price": 650,
-    "description": "Джон Рональд Руэл Толкин",
-    "image": "https://avatars.mds.yandex.net/i?id=55aa7c9d7abde58b29d8d1dff4be9adf0d591563-5482808-images-thumbs&n=13",
-    "category": "books",
+    "title": "Драконий Жемчуг Том 1",
+    "price": 1050,
+    "description": "Акира Торияма",
+    "image": "https://i.pinimg.com/736x/b4/5b/3d/b45b3d04907fede7c725bdb3649b05ab.jpg",
+    "category": "Книги",
     "rating": 5
     },
     {
     "id": 28,
-    "title": "Книга 'The Lord of the Rings: The Fellowship of the Ring'",
+    "title": "Манга Драконий Жемчут Том 27",
     "price": 750,
-    "description": "Джон Рональд Руэл Толкин",
-    "image": "https://avatars.mds.yandex.net/i?id=347b48c63408dfe1a57a0bf1608ed1f44984ea62-5905521-images-thumbs&n=13",
-    "category": "books",
+    "description": "Акира Торияма",
+    "image": "https://cover.imglib.info/uploads/cover/dragon_ball_kanzenban/cover/1eea718d-5c97-4c6d-a647-13968764cee7_orig.jpg",
+    "category": "Книги",
     "rating": 5
     },
     {
     "id": 29,
-    "title": "Книга 'The Lord of the Rings: The Two Towers'",
+    "title": "Манга Драконий Жемчут Том 12",
     "price": 900,
-    "description": "Джон Рональд Руэл Толкин",
-    "image": "https://avatars.mds.yandex.net/i?id=52ce6e99cd19717c2fff5b6346d976121c91faa6-9144733-images-thumbs&n=13",
-    "category": "books",
+    "description": "Акира Торияма",
+    "image": "https://www.mokuton.com/covers/Dragonball/DragonBall_12.jpg",
+    "category": "Книги",
     "rating": 5
     },
     {
     "id": 30,
-    "title": "Книга 'The Lord of the Rings: The Return of the King'",
+    "title": "Манга Драконий Жемчут Том 5",
     "price": 850,
-    "description": "Джон Рональд Руэл Толкин",
-    "image": "https://avatars.mds.yandex.net/i?id=fcd55f76a6293fff71088f72166d988b043038a3-5127582-images-thumbs&n=13",
-    "category": "books",
+    "description": "Акира Торияма",
+    "image": "https://avatars.mds.yandex.net/i?id=892c37b9565f7d6a81b665e64678f9f4f6451944-10698321-images-thumbs&n=13",
+    "category": "Книги",
     "rating": 5
     }
     ]

@@ -1,0 +1,275 @@
+{
+    "products": [
+    {
+    "id": 1,
+    "title": "Ноутбук ASUS VivoBook 15",
+    "price": 45000,
+    "description": "15.6 дюймов, Intel Core i5, 8 ГБ ОЗУ, 512 ГБ SSD",
+    "image": "https://avatars.mds.yandex.net/get-mpic/11621477/2a000001927902286b5ac54183fb11104ecf/optimize",
+    "category": "electronics",
+    "rating": 4.7
+    },
+    {
+    "id": 2,
+    "title": "Смартфон Samsung Galaxy S21",
+    "price": 60000,
+    "description": "6.2 дюймов, 128 ГБ, Phantom Gray",
+    "image": "https://avatars.mds.yandex.net/i?id=acfa10cfe26236f9a878e4e2321251982bbb9d1d-4885899-images-thumbs&n=13",
+    "category": "electronics",
+    "rating": 4.8
+    },
+    {
+    "id": 3,
+    "title": "Наушники Sony WH-1000XM4",
+    "price": 25000,
+    "description": "Беспроводные, шумоподавление, черный",
+    "image": "https://avatars.mds.yandex.net/i?id=1275d5c25f461fece234babe98dad92f84f35e07-10961631-images-thumbs&n=13",
+    "category": "electronics",
+    "rating": 4.9
+    },
+    {
+    "id": 4,
+    "title": "Фитнес-браслет Xiaomi Mi Band 6",
+    "price": 3000,
+    "description": "Цветной AMOLED-экран, черный",
+    "image": "https://avatars.mds.yandex.net/i?id=8ae15a21a5b2c8dd923a7e39738526eaa4596d5f0eb79327-3573407-images-thumbs&n=13",
+    "category": "electronics",
+    "rating": 4.6
+    },
+    {
+    "id": 5,
+    "title": "Планшет Apple iPad Air",
+    "price": 55000,
+    "description": "10.9 дюймов, 64 ГБ, Space Gray",
+    "image": "https://avatars.mds.yandex.net/i?id=881615fe751297c3429b606be90667a0045eaa69-5910545-images-thumbs&n=13",
+    "category": "electronics",
+    "rating": 4.8
+    },
+    {
+    "id": 6,
+    "title": "Фотоаппарат Canon EOS R6",
+    "price": 150000,
+    "description": "Зеркальный, 20 Мп, 4K видео",
+    "image": "https://avatars.mds.yandex.net/i?id=a18c58d1cd5b22f05c9f02d97a2ed661e2bf21fe-4076134-images-thumbs&n=13",
+    "category": "electronics",
+    "rating": 4.9
+    },
+    {
+    "id": 7,
+    "title": "Монитор Dell UltraSharp 27",
+    "price": 40000,
+    "description": "27 дюймов, 4K, IPS",
+    "image": "https://avatars.mds.yandex.net/i?id=a34f919ca19ed6b096d17d19bb9a15b09186e0c4-3452823-images-thumbs&n=13",
+    "category": "electronics",
+    "rating": 4.7
+    },
+    {
+    "id": 8,
+    "title": "Игровая мышь Logitech G502",
+    "price": 5000,
+    "description": "11 программируемых кнопок, RGB",
+    "image": "https://avatars.mds.yandex.net/i?id=c68f5f28cac592babf05d74fec795dd824276234-8425275-images-thumbs&n=13",
+    "category": "electronics",
+    "rating": 4.8
+    },
+    {
+    "id": 9,
+    "title": "Клавиатура Keychron K6",
+    "price": 7000,
+    "description": "Механическая, Bluetooth, 65%",
+    "image": "https://avatars.mds.yandex.net/i?id=988ccb78ff18ae108c5f995b09519a40d2e4e52b-4855099-images-thumbs&n=13",
+    "category": "electronics",
+    "rating": 4.7
+    },
+    {
+    "id": 10,
+    "title": "Колонка JBL Flip 5",
+    "price": 8000,
+    "description": "Портативная, водонепроницаемая, синий",
+    "image": "https://avatars.mds.yandex.net/i?id=020e6222f1df52aac571f6f5886a1c8edb8d8acf-5344236-images-thumbs&n=13",
+    "category": "electronics",
+    "rating": 4.6
+    },
+    {
+    "id": 11,
+    "title": "Футболка мужская",
+    "price": 1500,
+    "description": "Хлопок, черный",
+    "image": "https://avatars.mds.yandex.net/i?id=20554473a63baeb2b65ce813c955f4341eca1d13-9863853-images-thumbs&n=13",
+    "category": "clothing",
+    "rating": 4.5
+    },
+    {
+    "id": 12,
+    "title": "Джинсы женские",
+    "price": 3000,
+    "description": "Скинни, синий",
+    "image": "https://avatars.mds.yandex.net/i?id=0c46cce712b5f23a13e1570f28363681e879a7ff-12588376-images-thumbs&n=13",
+    "category": "clothing",
+    "rating": 4.6
+    },
+    {
+    "id": 13,
+    "title": "Мифриловая рубашка",
+    "price": 10000,
+    "description": "Мифрил",
+    "image": "https://thetolkien.forum/wiki-asset/?pid=1907&x=450",
+    "category": "clothing",
+    "rating": 4.7
+    },
+    {
+    "id": 14,
+    "title": "Кроссовки Nike Air Max",
+    "price": 8000,
+    "description": "Беговые, белый",
+    "image": "https://avatars.mds.yandex.net/i?id=e5ea13c72b9fa8d350555c49a2d6ebf305ab6077-9173887-images-thumbs&n=13",
+    "category": "clothing",
+    "rating": 4.8
+    },
+    {
+    "id": 15,
+    "title": "Рюкзак Herschel",
+    "price": 5000,
+    "description": "Повседневный, синий",
+    "image": "https://avatars.mds.yandex.net/i?id=8f5dff0c049efb4f49c6cfd9f0b45dfd1a6249b4-5586433-images-thumbs&n=13",
+    "category": "clothing",
+    "rating": 4.6
+    },
+    {
+    "id": 16,
+    "title": "Кольцо всевластия",
+    "price": 12000,
+    "description": "золото, металл осквернённый Морготом",
+    "image": "https://habrastorage.org/webt/zr/uh/je/zruhjeh-x6bvr9wqhxj4f5u5tu0.png",
+    "category": "clothing",
+    "rating": 4.7
+    },
+    {
+    "id": 17,
+    "title": "Очки Ray-Ban",
+    "price": 9000,
+    "description": "Солнцезащитные, черный",
+    "image": "https://avatars.mds.yandex.net/i?id=b8573fb81a4c61cc669f0e1e518bdf3f9a0e5d8a-8534972-images-thumbs&n=13",
+    "category": "clothing",
+    "rating": 4.8
+    },
+    {
+    "id": 18,
+    "title": "Шапка вязаная",
+    "price": 1000,
+    "description": "Шерсть, серый",
+    "image": "https://avatars.mds.yandex.net/i?id=c619a9d2c1b9d34a9ef73e92bd9af58302c855b5-5163110-images-thumbs&n=13",
+    "category": "clothing",
+    "rating": 4.5
+    },
+    {
+    "id": 19,
+    "title": "Платье вечернее",
+    "price": 7000,
+    "description": "Шелк, черный",
+    "image": "https://avatars.mds.yandex.net/i?id=7b9d32b2cbb78fb9dc86fa4947b096f62887fde2-12505840-images-thumbs&n=13",
+    "category": "clothing",
+    "rating": 4.7
+    },
+    {
+    "id": 20,
+    "title": "Сумка женская",
+    "price": 6000,
+    "description": "Кожа, красный",
+    "image": "https://avatars.mds.yandex.net/i?id=a2328ceae5c1f358ee3470d3710b90ee022ea1d8-12476725-images-thumbs&n=13",
+    "category": "clothing",
+    "rating": 4.6
+    },
+    {
+    "id": 21,
+    "title": "Книга '1984'",
+    "price": 500,
+    "description": "Джордж Оруэлл",
+    "image": "https://avatars.mds.yandex.net/i?id=0f700e888e0203dc11bc2fd4911edeb93454be4e-3577053-images-thumbs&n=13",
+    "category": "books",
+    "rating": 4.9
+    },
+    {
+    "id": 22,
+    "title": "Книга 'Мастер и Маргарита'",
+    "price": 600,
+    "description": "Михаил Булгаков",
+    "image": "https://avatars.mds.yandex.net/i?id=280f780e3d71879fc63c1b1d2640d41807262520-8411463-images-thumbs&n=13",
+    "category": "books",
+    "rating": 4.8
+    },
+    {
+    "id": 23,
+    "title": "Книга 'Гарри Поттер и Философский камень'",
+    "price": 700,
+    "description": "Джоан Роулинг",
+    "image": "https://avatars.mds.yandex.net/i?id=1c4bb787148e3b8e8cb428517c85ba72e5b1ca45-7761117-images-thumbs&n=13",
+    "category": "books",
+    "rating": 4.9
+    },
+    {
+    "id": 24,
+    "title": "Книга 'Война и мир'",
+    "price": 800,
+    "description": "Лев Толстой",
+    "image": "https://avatars.mds.yandex.net/i?id=cddd5e590e5e11a4a5fd153c59e3da44c162a9a7-10685755-images-thumbs&n=13",
+    "category": "books",
+    "rating": 4.7
+    },
+    {
+    "id": 25,
+    "title": "Книга 'Преступление и наказание'",
+    "price": 550,
+    "description": "Федор Достоевский",
+    "image": "https://avatars.mds.yandex.net/i?id=d72edb99bea5134861b0b1104a36fdcb540baf59-9106835-images-thumbs&n=13",
+    "category": "books",
+    "rating": 4.8
+    },
+    {
+    "id": 26,
+    "title": "Книга 'Silmarillion",
+    "price": 400,
+    "description": "Джон Рональд Руэл Толкин",
+    "image": "https://productimages.hepsiburada.net/s/27/550/10192986374194.jpg",
+    "category": "books",
+    "rating": 5
+    },
+    {
+    "id": 27,
+    "title": "Книга 'The Hobbit, or There and Back Again'",
+    "price": 650,
+    "description": "Джон Рональд Руэл Толкин",
+    "image": "https://avatars.mds.yandex.net/i?id=55aa7c9d7abde58b29d8d1dff4be9adf0d591563-5482808-images-thumbs&n=13",
+    "category": "books",
+    "rating": 5
+    },
+    {
+    "id": 28,
+    "title": "Книга 'The Lord of the Rings: The Fellowship of the Ring'",
+    "price": 750,
+    "description": "Джон Рональд Руэл Толкин",
+    "image": "https://avatars.mds.yandex.net/i?id=347b48c63408dfe1a57a0bf1608ed1f44984ea62-5905521-images-thumbs&n=13",
+    "category": "books",
+    "rating": 5
+    },
+    {
+    "id": 29,
+    "title": "Книга 'The Lord of the Rings: The Two Towers'",
+    "price": 900,
+    "description": "Джон Рональд Руэл Толкин",
+    "image": "https://avatars.mds.yandex.net/i?id=52ce6e99cd19717c2fff5b6346d976121c91faa6-9144733-images-thumbs&n=13",
+    "category": "books",
+    "rating": 5
+    },
+    {
+    "id": 30,
+    "title": "Книга 'The Lord of the Rings: The Return of the King'",
+    "price": 850,
+    "description": "Джон Рональд Руэл Толкин",
+    "image": "https://avatars.mds.yandex.net/i?id=fcd55f76a6293fff71088f72166d988b043038a3-5127582-images-thumbs&n=13",
+    "category": "books",
+    "rating": 5
+    }
+    ]
+   }
+   
